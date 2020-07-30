@@ -1,0 +1,10 @@
+*.pyc
+*.sw?
+*.egg*/
+vendor
+.ksl-venv
+.venv
+.update-venv/
+.tox
+*.log
+
