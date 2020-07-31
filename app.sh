@@ -1,2 +1,2 @@
 export FLASK_APP=ckaccess
-flask run
+flask run -p 8080
